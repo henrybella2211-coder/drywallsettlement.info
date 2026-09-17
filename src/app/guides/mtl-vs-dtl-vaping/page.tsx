@@ -168,6 +168,15 @@ export default function Page() {
           &quot;performance&quot; usually signal DTL.
         </li>
       </ul>
+      <p>
+        Vapour output is also worth thinking about beyond your own comfort. A
+        smaller, tighter MTL draw tends to be far more discreet in shared or public
+        spaces than a big DTL cloud, which our{" "}
+        <Link href="/guides/where-can-you-vape-in-the-uk">
+          guide to vaping in public spaces
+        </Link>{" "}
+        covers alongside the wider etiquette around where it is welcome.
+      </p>
 
       <h2>Can you switch between the two styles?</h2>
       <p>

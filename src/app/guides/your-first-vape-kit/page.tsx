@@ -123,7 +123,12 @@ export default function Page() {
       <p>
         In our view, it is worth buying two bottles of e-liquid in different flavours
         when you start, since taste preference is hard to predict before you have
-        actually tried vaping.
+        actually tried vaping. If you are weighing this up against what you currently
+        spend on cigarettes, our{" "}
+        <Link href="/guides/vaping-cost-vs-smoking">
+          guide comparing vaping and smoking costs
+        </Link>{" "}
+        walks through a worked example.
       </p>
 
       <h2>Charging and filling your kit for the first time</h2>

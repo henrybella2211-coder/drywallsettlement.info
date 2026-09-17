@@ -47,6 +47,30 @@ export const guides: Guide[] = [
     image: "/images/e-liquid-bottles-on-table.jpg",
     imageAlt: "Several small e-liquid bottles lined up together on a table",
   },
+  {
+    slug: "vaping-cost-vs-smoking",
+    title: "How much does vaping cost compared to smoking? A beginner's guide",
+    excerpt:
+      "A plain-English look at typical UK cigarette spend versus starter kit and running costs for vaping, with an honest worked example rather than a single made-up number.",
+    category: "Costs & switching",
+    readTime: "8 min read",
+    lastUpdatedDisplay: "Last updated 16 September 2026",
+    lastUpdatedISO: "2026-09-16",
+    image: "/images/piggy-bank-coins-savings.jpg",
+    imageAlt: "A piggy bank surrounded by coins and paper money on a table",
+  },
+  {
+    slug: "where-can-you-vape-in-the-uk",
+    title: "Where can you vape in the UK? Public spaces, work and vaping etiquette",
+    excerpt:
+      "There is no blanket law banning vaping the way there is for smoking, so it mostly comes down to venue and workplace policy. Here's how to navigate that with common courtesy.",
+    category: "Rules & etiquette",
+    readTime: "7 min read",
+    lastUpdatedDisplay: "Last updated 18 September 2026",
+    lastUpdatedISO: "2026-09-18",
+    image: "/images/no-smoking-sign-public-space.jpg",
+    imageAlt: "A black and white no smoking sign mounted on a wall in a public space",
+  },
 ];
 
 export function getGuideBySlug(slug: string): Guide | undefined {
