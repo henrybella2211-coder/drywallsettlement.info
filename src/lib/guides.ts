@@ -71,6 +71,18 @@ export const guides: Guide[] = [
     image: "/images/no-smoking-sign-public-space.jpg",
     imageAlt: "A black and white no smoking sign mounted on a wall in a public space",
   },
+  {
+    slug: "is-al-fakher-hypermax-prime-50k-good-for-beginners",
+    title: "Is the Al Fakher HyperMax Prime 50K a good first vape kit for beginners?",
+    excerpt:
+      "A plain-English look at what this rechargeable snap-pod kit actually is, how simple it is day to day, and whether it beats a basic starter kit for someone who has never vaped before.",
+    category: "Kit reviews",
+    readTime: "8 min read",
+    lastUpdatedDisplay: "Last updated 17 September 2026",
+    lastUpdatedISO: "2026-09-17",
+    image: "/images/pod-vape-kit-eliquid-bottle.jpg",
+    imageAlt: "A rechargeable pod vape kit standing next to a small bottle of e-liquid on a table",
+  },
 ];
 
 export function getGuideBySlug(slug: string): Guide | undefined {
