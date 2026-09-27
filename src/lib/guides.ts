@@ -83,6 +83,18 @@ export const guides: Guide[] = [
     image: "/images/pod-vape-kit-eliquid-bottle.jpg",
     imageAlt: "A rechargeable pod vape kit standing next to a small bottle of e-liquid on a table",
   },
+  {
+    slug: "nicotine-salts-for-beginners",
+    title: "Nicotine salts for beginners: why 5mg might be your starting point",
+    excerpt:
+      "What nic salts actually are, how they differ from freebase e-liquid, and why many new vapers are pointed towards a lower strength such as 5mg to start with.",
+    category: "E-liquid basics",
+    readTime: "7 min read",
+    lastUpdatedDisplay: "Last updated 27 September 2026",
+    lastUpdatedISO: "2026-09-27",
+    image: "/images/nic-salt-bottle-with-pod-kit.jpg",
+    imageAlt: "A small 10ml nicotine salt e-liquid bottle standing next to a pod vape kit",
+  },
 ];
 
 export function getGuideBySlug(slug: string): Guide | undefined {

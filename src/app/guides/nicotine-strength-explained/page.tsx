@@ -70,7 +70,13 @@ export default function Page() {
         freebase liquid, while delivering nicotine into the bloodstream at a broadly
         similar rate. Our{" "}
         <Link href="/guides/your-first-vape-kit">first vape kit guide</Link> explains
-        how this affects which device and coil you will need.
+        how this affects which device and coil you will need. If you are weighing up
+        which strength of nic salt to start with, our{" "}
+        <Link href="/guides/nicotine-salts-for-beginners">
+          guide to nicotine salts for beginners
+        </Link>{" "}
+        walks through why many new vapers begin at 5mg rather than jumping straight
+        to 10mg or 20mg.
       </p>
 
       <h2>What if you remember disposables feeling stronger?</h2>
