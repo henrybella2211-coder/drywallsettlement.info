@@ -161,12 +161,17 @@ export default function Page() {
       <p>
         Alongside standard refillable pod kits, you will also see devices that bundle
         the coil and e-liquid into a single prefilled, replaceable pod, such as the Al
-        Fakher HyperMax Prime 50K. These remove the filling and coil-swapping steps
-        above entirely, at the cost of a higher running price per ml. Our{" "}
+        Fakher HyperMax Prime 50K or the draw-activated, no-buttons Lost Mary BM6000.
+        These remove the filling and coil-swapping steps above entirely, at the cost
+        of a higher running price per ml. Our{" "}
         <Link href="/guides/is-al-fakher-hypermax-prime-50k-good-for-beginners">
           look at whether the Al Fakher HyperMax Prime 50K suits a first-time buyer
         </Link>{" "}
-        weighs that trade-off up in more detail.
+        and our{" "}
+        <Link href="/guides/is-lost-mary-bm6000-good-for-beginners">
+          look at whether the Lost Mary BM6000 is a good beginner kit
+        </Link>{" "}
+        both weigh that trade-off up in more detail.
       </p>
 
       <h2>Common day-one mistakes</h2>

@@ -84,6 +84,18 @@ export const guides: Guide[] = [
     imageAlt: "A rechargeable pod vape kit standing next to a small bottle of e-liquid on a table",
   },
   {
+    slug: "is-lost-mary-bm6000-good-for-beginners",
+    title: "Is the Lost Mary BM6000 a good beginner-friendly vape kit?",
+    excerpt:
+      "A plain-English look at what the Lost Mary BM6000 actually is, why its no-buttons design is easy for a first-time buyer, and how it compares with a standard beginner pod kit.",
+    category: "Kit reviews",
+    readTime: "8 min read",
+    lastUpdatedDisplay: "Last updated 29 September 2026",
+    lastUpdatedISO: "2026-09-29",
+    image: "/images/rechargeable-pod-kits-on-table.jpg",
+    imageAlt: "Two rechargeable pod vape kits, one standing and one lying down, on a reflective table",
+  },
+  {
     slug: "nicotine-salts-for-beginners",
     title: "Nicotine salts for beginners: why 5mg might be your starting point",
     excerpt:
